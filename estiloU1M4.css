@@ -1,0 +1,135 @@
+* {margin: 0;padding: 0;}
+
+body{font-family: 'Montserrat', sans-serif;}
+
+h1 {
+    min-height: 200px;
+    width: 60%;
+    min-width: 600px;
+    background: whitesmoke;
+    margin: 50px auto;
+    padding: 30px;
+    color: #27aae1;
+    text-align: center;
+}
+
+h2 {
+    background: whitesmoke;
+    margin: 25px auto;
+    padding: 15px;
+    color: #27aae1;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+.photo {
+    width: 15%;
+    min-width: 130px;
+    float: left;
+    margin-right: 20px;
+}
+
+.contact-detalles {
+    background: #27aae1;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+#Objetivo h3 {
+    background: whitesmoke;
+    margin: 25px auto;
+    padding: 15px;
+    color: #27aae1;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#Objetivo p {
+    padding: 0 5px;
+    line-height: 25px;
+    font-size: 14px;
+    color: #000;
+}
+
+#Educacion h3 {
+    background: whitesmoke;
+    margin: 25px auto;
+    padding: 15px;
+    color: #27aae1;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#Educacion table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+}
+
+#Educacion table tr.school-1 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 25px;
+}
+
+#Eduacion table tr.school-2 td:first-child {
+    padding-bottom: 25px;
+}
+
+#trabajo h3 {
+    background: whitesmoke;
+    margin: 25px auto;
+    padding: 15px;
+    color: #27aae1;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#trabajo table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+}
+
+#trabajo table tr.trabajo-1 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 25px;
+}
+
+#trabajo table tr.trabajo-1 td {
+    padding-bottom: 25px;
+}
+
+#trabajo table tr.trabajo-2 td:first-child {
+    width: 120px;
+    color: gray;
+}
+
+#datos-personales h3 {
+    background: whitesmoke;
+    margin: 25px auto;
+    padding: 15px;
+    color: #27aae1;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#datos-personales table td {
+    padding: 8px;
+    font-size: 15px;
+    color: #000;
+}
+
+#datos-personales table tr td:first-child {
+    width: 200px;
+}
+
+#datos-personales table tr td:nth-child(2) {
+    width: 300px;
+}
